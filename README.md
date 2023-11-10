@@ -1,5 +1,5 @@
 # Project-1-Repo
-This is a group data analysis project. Each group is tasked with choosing a data set, asking questions, and drawing conclusions.  
+This is a group data analysis project using the python skills gained in the first section of the bootcamp. Each group is tasked with choosing a data set, asking questions, and drawing conclusions.  
 
 # Requirements
 Completed Analysis Uploaded to GitHub 
